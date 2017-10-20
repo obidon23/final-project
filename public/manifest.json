@@ -1,0 +1,15 @@
+{
+  "short_name": "LASSIE",
+  "name": "LASSIE Manager",
+  "icons": [
+    {
+      "src": "images/lcmslogo.gif",
+      "sizes": "192x192",
+      "type": "image/gif"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalonse",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,34 @@
+PAGES NEEDED:
+
+Home Page 
+  - Home page should be clean and simple. 
+  - user  logs in with email and/or username along with password to gain access to their collection/table
+  - COMPONENTS NEEDED: Login form, create
+
+user Home
+  - This will default to show a list of the user 's witnesses
+  - If a user clicks on a name of a witness, then they will be taken to a witness history page
+  - User will have a search functionality to find a person by name
+  - User can also access their own profile. This will primarily allow them to change passwords, emails, etc.
+  - COMPONENTS NEEDED: Witnesses, Profile,
+
+witness page
+  - The witness page will feature the name of the witness and a list of the sessions sorted by most recent date
+  - Clicking on a session will open a modal that will allow user to review and/or update LASSIE records
+  - A button will be available for adding a new session which will open a modal with an empty LASSIE form. 
+  - COMPONENTS NEEDED: sessions, modals?
+
+Admin Home (future)
+  - Admin home will feature a list of users and access will be very similar to the previous pages, but with an added component
+  - Admin will be able to re-assign witnesses to different users
+  - potentially we can have an added field for the LASSIE form which allows for the admin to provide notes/feedback
+
+DATA MODEL:
+
+The master database will have several children:
+ - Users: userkey, username, useremail, userpassword(?)
+ - Witnesses: witKey, witName, witEmail, witPhone, witStatus(?), userkey
+ - Sessions: sessionDate, LASSIE Fields, Admin Notes(?), witKey
+ - admin(?): 
+
+

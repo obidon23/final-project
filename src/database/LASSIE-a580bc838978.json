@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lassie-8224e",
+  "private_key_id": "a580bc838978d5e6bf1a5f4cd9cd5335a990cf66",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWu7/m5z2fG8an\nZ0U77PDghdTFm6NHf6AIljXigS6VLwU4LPdgA18GVq/NSwNPOjotvQD5QuUlQWPZ\nVAqOb/dx9Maw+145Z0aJ85lFwmW8xyq0fES+obfFF9JUJKFJekwwQYRxKXjf+Lib\nHK99UVaF7qf9F7ZA+k6uWhhaOImfKLP6eFDf7XYHLn5V9W2/o8uphSjjs4slR2I3\ntIuk8cBMaDGwEWMJd8198SnNmsX7eCqc2hLfLWyv6r3dRs1KpubLGR/ux2n4HyNl\n53aKYP4gFmyZ0YivOnigGtHY2XkRKX9PA0hH9WuvLbn9XQrTw1AWGy2TdKugy5YL\nRtNLhdHlAgMBAAECggEAJLUkTr8RqqXBAxOLMMTLBGKTJmx4nvjdqDmsdbSv+3Sv\n+LY6qA8qHQkPVxdlfu3XLTxR+GHqG+CIyGxHBdkOkZniqUcN8zzLWN0R/oMQ86At\nLjb1JteLQVxDxGoHPTWjSD0sW8KVxTV0/5FEy2f7gjJUhrY3lCtg7eTS+WW7Xh7T\nwfV+BMOpmn2+eFGl3JcydBIdUWEHD839GTKlyatIS93jVf5mNBgOork6Nsk6jnrR\nRv/oOGqO0Q5FCoqTwm1o0W9vcXG+IV7kOQTBqE69rMxoqpFKEQDwkXVnyTEwAjBC\noWNdoYP0EgKbO56OVWAekF8zqnMK/jHUFnNRBf1BIQKBgQDI/POfJu8zy72MvoiL\nGGMFCaBHfx9HgJNAYhZxADL2h8EEW+cI78mNhCZjcV5iV2B6P2buJpiPgI+ldy7m\n5w7KVz93p8AfVLXbiGNjoDKXu3X3CFo+gttdrjoX8lqmxfoTB7utA3Ulqg2rrJ4R\nt6dheikWH+pM+GODyyAD77l4AwKBgQC//X+Pz0tHAnoq2okETTgQvdkNeq1Hm6Pi\nldiid01zCXZMtIGrzPkEY+pkEPwUNw/dgTt2+C8eL4fo6Dd+f0rwM00A7tpi10z1\n3qe0QtgzZJfnBS4SktoC6Q5jb0UOzpTY8JEmatf0kahgeBydrq0gxlPOqr05z1a2\nHJ3FldOt9wKBgQCm/VugyOWHQGktrgSepNVokxXjMWCYtOAjZxvEKWkuYZ5h88Wi\nLDBm7vxCNSg5RuW2zETF67VnzWYMEVkbqbAlN5ZY4TyEC4rJaqlBVhGS9cLOS9dH\nBswiKqbDzK260NS0yQEKf8vuTjrrfxEaIV/lYm0On9e4uctc7gCcpKmRZwKBgQCP\npFExPm3a1f6jW1fSMRf2ZqQjkppcjhUCrQwlGc+HdxfccdzmtffFkh/G+HIxibTE\nDDF6ZFuUYQl1d3A1o3Vk220MeqhH9T+uYQTmOHDbmrKP9O8wlFCqhsXuHUz0tBjn\naq2eqaejYuswKg126D6928TORi5HN1pv7F8aemuipwKBgCLldq7V4+Fm9ZfK3TxA\nrzsY27ZMP8harJOhZElZGbyWGie2XFxsO68ylI++q3K49ipZATbVPcizY/fe42h5\n8FPNQPxlBjUixknIKoVXyWZJEsdraeQpIGXq4lbtfJQ/OinHiedZHcSDxKqxVt1B\nfRXodR8t2J2IvbOLTQ//B5XZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "lassie-user@lassie-8224e.iam.gserviceaccount.com",
+  "client_id": "101038343940297693040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lassie-user%40lassie-8224e.iam.gserviceaccount.com"
+}
